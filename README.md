@@ -1,2 +1,2 @@
-# typescript
- Inicialização em TypeScript
+# TypeScript
+ React com TypeScript
