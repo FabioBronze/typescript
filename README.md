@@ -1,0 +1,2 @@
+# typescript
+ Inicialização em TypeScript
